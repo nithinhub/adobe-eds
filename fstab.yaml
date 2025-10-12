@@ -1,11 +1,5 @@
 mountpoints:
   /:
-    url: https://drive.google.com/drive/u/0/folders/1F4CIdmT2u9-OOF69PFoigvwEZ6n0hX_l
-    type: markup
-    suffix: .html
-
-    mountpoints:
-  /:
     url: https://main--nithinhub--adobe-eds.aem.live/
     type: markup
     suffix: .html
