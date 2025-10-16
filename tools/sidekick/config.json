@@ -21,7 +21,7 @@
       "passConfig":true,
       "passReferrer": true,
       "excludePaths":[
-        "**/fr/**"
+        "**/blogs/**"
       ],
       "includePaths": [
         "**.docx**",
